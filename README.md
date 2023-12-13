@@ -1,6 +1,6 @@
-# Welcome to the <span style="color:red">**J**</span><span style="color:orange">**T**</span><span style="color:limegreen">**O**</span><span style="color:dodgerblue">**H**</span><span style="color:lightgray">**RevampedKit**</span>!
+# Welcome to the JTOHRevampedKit!
 
-The <span style="color:red">**J**</span><span style="color:orange">**T**</span><span style="color:limegreen">**O**</span><span style="color:dodgerblue">**H**</span><span style="color:lightgray">**RevampedKit**</span> is a completely overhauled version of the JToH Kit. It takes advantage of optimizations to make things run much much faster while also allowing for more creative freedom.
+The JToHRevampedKit is a completely overhauled version of the JToH Kit. It takes advantage of optimizations to make things run much much faster while also allowing for more creative freedom.
 
 * Works out of the box
 
