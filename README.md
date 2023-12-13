@@ -20,25 +20,25 @@ The JToHRevampedKit is a completely overhauled version of the JToH Kit. It takes
 
 In this repository you will find detailed documentation on virtually everything contained in the Kit.  
 <pre>
-* 📁 JToHKitRevamped <sup><b>Tag:</b> <i>JToHKitRevamped</i></sup>
-    * 📁 Towers
-        * 📁 <i>[Insert Tower Name]</i> <sup><b>Tag:</b> <i>TowerFolder</i></sup>
-            * 📁 Frame ⚠️
-                * 📁 Floor <i>[Insert Floor Number Here]</i>
-                    * 🔶 Part
-            * 📁 Mods
-                * 🟪 Default ⚠️
-                * 🟪 <i>[Insert Mod Name Here]</i> ⛔️
-            * 📁 Workspace ⚠️
-                * 🔶 ServerObject
-                * 🔷 ClientObject
-            * 📚 Portal
-                * 🔲 PortalTeleporter <sup><b>Tag:</b> <i>PortalTeleporter</i></sup>
-            * 🔲 Start
-            * 🔲 Winpad
-    * 📃 Main
-        * 📘 Client
-        * 🟪 Types
+▿ 📁 JToHKitRevamped <sup><b>Tag:</b> <i>JToHKitRevamped</i></sup>
+    ▿ 📁 Towers
+        ▿ 📁 <i>[Insert Tower Name]</i> <sup><b>Tag:</b> <i>TowerFolder</i></sup>
+            ▿ 📁 Frame
+                ▿ 📁 Floor <i>[Insert Floor Number Here]</i> ⚠️
+                    ▫️ 🔶 Part
+            ▿ 📁 Mods
+                ▫️ 🟪 Default ⚠️
+                ▫️ 🟪 <i>[Insert Mod Name Here]</i> ⛔️
+            ▿ 📁 Workspace
+                ▫️ 🔶 ServerObject
+                ▫️ 🔷 ClientObject <sup><b>Tag:</b> <i>ClientObject</i></sup>
+            ▿ 📚 Portal
+                ▫️ 🔲 PortalTeleporter <sup><b>Tag:</b> <i>PortalTeleporter</i></sup>
+            ▫️ 🔲 Start
+            ▫️ 🔲 Winpad
+    ▿ 📃 Main
+        ▫️ 📘 Client
+        ▫️ 🟪 Types
 </pre>
 <sup>
 ⚠️ = Optional, but recommended
