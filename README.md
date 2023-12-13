@@ -18,4 +18,45 @@ The JToHRevampedKit is a completely overhauled version of the JToH Kit. It takes
 
     * Create your own custom Tower functionality or Client Objects using the built-in modding framework
 
-In this repository you will find detailed documentation on virtually everything contained in the Kit. If you have any issues or suggestions for the Kit or its documentation, feel free to submit a new Issue.
+In this repository you will find detailed documentation on virtually everything contained in the Kit.  
+<pre>
+* 📁 JToHKitRevamped <sup><b>Tag:</b> <i>JToHKitRevamped</i></sup>
+    * 📁 Towers
+        * 📁 <i>[Insert Tower Name]</i> <sup><b>Tag:</b> <i>TowerFolder</i></sup>
+            * 📁 Frame ⚠️
+                * 📁 Floor <i>[Insert Floor Number Here]</i>
+                    * 🔶 Part
+            * 📁 Mods
+                * 🟪 Default ⚠️
+                * 🟪 <i>[Insert Mod Name Here]</i> ⛔️
+            * 📁 Workspace ⚠️
+                * 🔶 ServerObject
+                * 🔷 ClientObject
+            * 📚 Portal
+                * 🔲 PortalTeleporter <sup><b>Tag:</b> <i>PortalTeleporter</i></sup>
+            * 🔲 Start
+            * 🔲 Winpad
+    * 📃 Main
+        * 📘 Client
+        * 🟪 Types
+</pre>
+<sup>
+⚠️ = Optional, but recommended
+</br>
+⛔️ = Optional
+</br>
+🔶 = ServerObject
+</br>
+🔷 = ClientObject
+</br>
+📚 = Model
+</br>
+🔲 = BasePart
+</br>
+📘 = ClientScript
+</br>
+🟪 = ModuleScript
+</sup> 
+
+</br>
+If you have any issues or suggestions for the Kit or its documentation, feel free to submit a new Issue.
