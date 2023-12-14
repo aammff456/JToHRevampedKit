@@ -37,7 +37,12 @@ In this repository you will find detailed documentation on virtually everything 
             ▫️ 🔲 Start
             ▫️ 🔲 Winpad
     ▿ 📃 Main
-        ▫️ 📘 Client
+        ▿ 📘 Client
+            ▿ 🟪 KitPlayer
+                ▫️ 🟪 Timer
+            ▫️ 🟪 Tower
+            ▿ 🟪 Util
+                ▫️ 🟪 EventHandler
         ▫️ 🟪 ServerEventHandler
         ▫️ 🟪 Types
 </pre>
