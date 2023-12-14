@@ -38,11 +38,11 @@ In this repository you will find detailed documentation on virtually everything 
             ▫️ 🔲 Winpad
     ▿ 📃 Main
         ▿ 📘 Client
-            ▿ 🟪 KitPlayer
-                ▫️ 🟪 Timer
+            ▫️ 🟪 KitPlayer
             ▫️ 🟪 Tower
             ▿ 🟪 Util
                 ▫️ 🟪 EventHandler
+                ▫️ 🟪 Timer
         ▫️ 🟪 ServerEventHandler
         ▫️ 🟪 Types
 </pre>
