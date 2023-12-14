@@ -33,7 +33,7 @@ In this repository you will find detailed documentation on virtually everything 
                 ▫️ 🔶 ServerObject
                 ▫️ 🔷 ClientObject <sup><b>Tag:</b> <i>ClientObject</i></sup>
             ▿ 📚 Portal
-                ▫️ 🔲 PortalTeleporter <sup><b>Tag:</b> <i>PortalTeleporter</i></sup>
+                ▫️ 🔲 PortalTeleporter
             ▫️ 🔲 Start
             ▫️ 🔲 Winpad
     ▿ 📃 Main
