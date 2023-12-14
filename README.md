@@ -38,6 +38,7 @@ In this repository you will find detailed documentation on virtually everything 
             ▫️ 🔲 Winpad
     ▿ 📃 Main
         ▫️ 📘 Client
+        ▫️ 🟪 ServerEventHandler
         ▫️ 🟪 Types
 </pre>
 <sup>
