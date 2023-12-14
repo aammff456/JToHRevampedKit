@@ -18,7 +18,7 @@ The JToHRevampedKit is a completely overhauled version of the JToH Kit. It takes
 
     * Create your own custom Tower functionality or Client Objects using the built-in modding framework
 
-In this repository you will find detailed documentation on virtually everything contained in the Kit.  
+In this repository you will find detailed documentation on virtually everything contained in the Kit. Head to the docs folder to see more.  
 <pre>
 ▿ 📁 JToHKitRevamped <sup><b>Tag:</b> <i>JToHKitRevamped</i></sup>
     ▿ 📁 Towers
