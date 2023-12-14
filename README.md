@@ -24,11 +24,11 @@ In this repository you will find detailed documentation on virtually everything 
     ▿ 📁 Towers
         ▿ 📁 <i>[Insert Tower Name]</i> <sup><b>Tag:</b> <i>TowerFolder</i></sup>
             ▿ 📁 Frame
-                ▿ 📁 Floor <i>[Insert Floor Number Here]</i> ⚠️
+                ▿ 📁 Floor <i>[Insert Floor Number Here]</i>
                     ▫️ 🔶 Part
             ▿ 📁 Mods
-                ▫️ 🟪 Default ⚠️
-                ▫️ 🟪 <i>[Insert Mod Name Here]</i> ⛔️
+                ▫️ 🟪 Default
+                ▫️ 🟪 <i>[Insert Mod Name Here]</i>
             ▿ 📁 Workspace
                 ▫️ 🔶 ServerObject
                 ▫️ 🔷 ClientObject <sup><b>Tag:</b> <i>ClientObject</i></sup>
@@ -41,10 +41,6 @@ In this repository you will find detailed documentation on virtually everything 
         ▫️ 🟪 Types
 </pre>
 <sup>
-⚠️ = Optional, but recommended
-</br>
-⛔️ = Optional
-</br>
 🔶 = ServerObject
 </br>
 🔷 = ClientObject
