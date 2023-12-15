@@ -43,6 +43,7 @@ In this repository you will find detailed documentation on virtually everything 
             ▿ 🟪 Util
                 ▫️ 🟪 EventHandler
                 ▫️ 🟪 Timer
+            ▫️ ⏹ JToHRevampedKitGui
         ▫️ 🟪 ServerEventHandler
         ▫️ 🟪 Types
 </pre>
@@ -58,6 +59,8 @@ In this repository you will find detailed documentation on virtually everything 
 📘 = ClientScript
 </br>
 🟪 = ModuleScript
+</br>
+⏹ = ScreenGui
 </sup> 
 
 </br>
