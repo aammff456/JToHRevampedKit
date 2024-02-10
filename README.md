@@ -1,6 +1,6 @@
-# Welcome to the JTOHKitRewritten!
+# Welcome to the JToHKitRewritten!
 
-The JToHRevampedKit is a completely overhauled version of the JToH Kit. It takes advantage of optimizations to make things run much much faster while also allowing for more creative freedom.
+The JToHKitRewritten is a completely overhauled version of the JToH Kit. It takes advantage of optimizations to make things run much much faster while also allowing for more creative freedom.
 
 * Works out of the box
 
