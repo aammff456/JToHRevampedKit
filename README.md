@@ -20,7 +20,7 @@ The JToHKitRewritten is a completely overhauled version of the JToH Kit. It take
 
 In this repository you will find detailed documentation on virtually everything contained in the Kit. Head to the docs folder to see more.  
 <pre>
-▿ 📁 JToHKitRevamped <sup><b>Tag:</b> <i>JToHKitRevamped</i></sup>
+▿ 📁 JToHKitRewritten <sup><b>Tag:</b> <i>JToHKitRewritten</i></sup>
     ▿ 📁 Towers
         ▿ 📁 <i>[Insert Tower Name]</i> <sup><b>Tag:</b> <i>TowerFolder</i></sup>
             ▿ 📁 Frame
@@ -42,7 +42,7 @@ In this repository you will find detailed documentation on virtually everything 
             ▫️ 🟪 KitPlayer
             ▫️ 🟪 Tower
             ▫️ 🟪 Util
-            ▫️ ⏹ JToHRevampedKitGui
+            ▫️ ⏹ JToHKitRewrittenGui
         ▫️ 🟪 Types
 </pre>
 <sup>
