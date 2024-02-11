@@ -38,13 +38,11 @@ In this repository you will find detailed documentation on virtually everything 
             ▫️ 🔲 Winpad
     ▿ 📃 Main
         ▿ 📘 Client
+            ▫️ 📘 ModHandler
             ▫️ 🟪 KitPlayer
             ▫️ 🟪 Tower
-            ▿ 🟪 Util
-                ▫️ 🟪 EventHandler
-                ▫️ 🟪 Timer
+            ▫️ 🟪 Util
             ▫️ ⏹ JToHRevampedKitGui
-        ▫️ 🟪 ServerEventHandler
         ▫️ 🟪 Types
 </pre>
 <sup>
