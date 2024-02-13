@@ -91,6 +91,14 @@ Touching the Button will do nothing and the Pressed attribute will not affect th
 </pre>
 
 <pre>
+<b>ButtonActivatedPartTransitionTime</b>  
+<hr>
+▫️ <b>Type:</b> number  
+▫️ <b>Constraints:</b> x >= 0  
+▫️ <b>Description:</b> If 0, ButtonActivatedParts transition to their next state instantly. If greater than 0, the ButtonActivatedParts will take that long to transition to their next state
+</pre>
+
+<pre>
 <b>TurretInteraction</b>  
 <hr>
 ▫️ <b>Type:</b> boolean  
