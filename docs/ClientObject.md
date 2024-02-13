@@ -23,7 +23,7 @@ If the Client Object is not Embedded, the Server will take note of what its Pare
 When a Player touches a Portal, it will send a message to their Client to start the Tower.
 
 ### Client-side 
-When the Client receives this messsage, it will clone all of the Client Objects in ReplicatedStorage associated with that Tower and put them under their original Parents (this means that Client Objects can be placed under Server Objects too), and giving each of them a type-unique tag.
+When the Client receives this messsage, it will clone all of the Client Objects in ReplicatedStorage associated with that Tower and put them under their original Parents (this means that Client Objects can be placed under Server Objects too), and will give each of them a type-unique tag.
 
 After all Client Objects have been loaded, the Client loads GUI and other things necessary for the Tower and tells the Server that it has finished loading. 
 
