@@ -1,7 +1,7 @@
 # ButtonDeactivator
 
 ▫️ <b>Type:</b> 🔲 BasePart  
-▫️ <b>Description:</b> When touched, will disable Buttons that are linked to it
+▫️ <b>Description:</b> When touched, will attempt to unpress Buttons that are linked to it
 
 ## Structure
 <pre>
@@ -40,7 +40,7 @@ Touching the ButtonDeactivator will do nothing
 <b>DeactivateAll</b>  
 <hr>
 ▫️ <b>Type:</b> boolean  
-▫️ <b>Description:</b> When enabled, all Buttons will be unpressed
+▫️ <b>Description:</b> When enabled, all Buttons will attempt to be unpressed
 </pre>
 
 <pre>
