@@ -12,6 +12,11 @@
     ▫️ 🔲 ...
 </pre>
 
+## When Disabled
+<pre>
+The BeatBlocks will stop toggling and will freeze in the next stable state
+</pre>
+
 ## Attributes
 <pre>
 <b>EnabledTransparency</b>  
