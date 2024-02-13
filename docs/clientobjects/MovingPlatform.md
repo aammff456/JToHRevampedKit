@@ -8,6 +8,11 @@
 ▿ 📁 MovingPlatform <sup><b>Tag:</b> <i>ClientObject</i></sup>
 </pre>
 
+## When Disabled
+<pre>
+The Platform will freeze in the next stable state and will stop moving
+</pre>
+
 ## Attributes
 <pre>
 <b>ObjectsStick</b>  

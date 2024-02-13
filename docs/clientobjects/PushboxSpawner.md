@@ -12,6 +12,11 @@
     ▫️ 🔲 Pushbox <sup><b>Tag:</b> <i>ClientObject</i></sup>
 </pre>
 
+## When Disabled
+<pre>
+Will not spawn/respawn the Pushbox
+</pre>
+
 ## Attributes
 <pre>
 <b>BalloonInteraction</b>  

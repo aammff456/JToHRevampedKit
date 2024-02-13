@@ -19,6 +19,11 @@
     ▫️ ⚙️ MorpherTickSound
 </pre>
 
+## When Button Disabled
+<pre>
+Touching the Button will do nothing and the Pressed attribute will not affect the Button when toggled
+</pre>
+
 ## Morpher Attributes
 <pre>
 <b>TimerEndedUnmorphEasingDirection</b>  

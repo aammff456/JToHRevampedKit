@@ -10,6 +10,11 @@
     ▫️ 🔲 TeleportPart
 </pre>
 
+## When Disabled
+<pre>
+Will not teleport anything that touches it
+</pre>
+
 ## Attributes
 <pre>
 <b>ColorStrict</b>  
