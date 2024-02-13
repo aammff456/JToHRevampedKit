@@ -21,17 +21,17 @@
 </pre>
 
 <pre>
+<b>ColorStrict</b>  
+<hr>
+▫️ <b>Type:</b> boolean  
+▫️ <b>Description:</b> When enabled, Parts can only trigger activation of the Button when they match the color of the Button. However, Parts that belong to the player are exempt from this rule 
+</pre>
+
+<pre>
 <b>HideTimer</b>  
 <hr>
 ▫️ <b>Type:</b> boolean  
 ▫️ <b>Description:</b> Determines whether the timer should be displayed or not
-</pre>
-
-<pre>
-<b>OnlyMatchingColorInteraction</b>  
-<hr>
-▫️ <b>Type:</b> boolean  
-▫️ <b>Description:</b> When enabled, Parts can only trigger activation of the Button when they match the color of the Button. However, Parts that belong to the player are exempt from this rule 
 </pre>
 
 <pre>
