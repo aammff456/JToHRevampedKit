@@ -9,6 +9,7 @@
 ▿ 📚 Button <sup><b>Tags:</b> <i>ClientObject, [ButtonDeactivator Groups]</i></sup>  
     ▫️ 🔲 Base  
     ▫️ 🔲 PressPart
+    ▫️ ⚙️ ActivateSound
 </pre>
 
 ## Attributes
