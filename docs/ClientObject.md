@@ -7,7 +7,7 @@ Client Objects are objects in a Tower that can only be seen on the Client. They 
     ▿ 📁 Workspace
         ▫️ 🔷 ClientObject <sup><b>Tag:</b> <i>ClientObject</i></sup>
 </pre>
-<sup>* All Client Objects must have the "ClientObject" tag to be treated as one</sup>
+<sup>* All Client Objects must have the "ClientObject" tag to be treated as one</sup>\n
 <sup>* Client Objects don't have to be placed in the Tower Workspace, but in most cases are</sup>
 
 All Client Objects are required to have a ClientObjectType attribute. This attribute is part of what makes the custom scripting framework possible. The type does not need to be anything in specific, but should represent what kind of Client Object something is.
