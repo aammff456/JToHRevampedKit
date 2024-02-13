@@ -29,13 +29,13 @@ After all Client Objects have been loaded, the Client loads GUI and other things
 
 The Server will then teleport the Player into the Tower and wait for the Player to touch the Winpad, at which point all Client Objects will be unloaded.
 
-## Physics Nuance
+## Replication Nuance
 
 When dealing with Client-specific things, oftentimes the Server will replicate things we don't want replicated, or won't replicate things we do want replicated.
 
 ### Cross-Client Collision
 
-Client Objects themselves will never replicate to the Server. However, Roblox utilizes a dynamic Physics system that can offload some of the calculations to a given Client. This means that oftentimes, nearby Physics will end up replicating to the Server.
+Client Objects themselves will never replicate to the Server. However, Roblox utilizes a dynamic Physics system that can offload some of the calculations to a given Client (which can also make the Client experience smoother). This means that oftentimes, nearby Physics will end up replicating to the Server.
 
 This is a problem because two Clients playing the same Tower can sometimes interfere with the other's Client Objects (for instance another Player could push your Pushbox without even being able to see it).
 
@@ -43,4 +43,6 @@ This is fixed by implementing collision groups, which prevent other Players from
 
 ### Health and Character CFrame Replication
 
+If the health of a Player is changed on the Client, the Server will not perceive this change unless the Player dies. To fix this, when the Player's health changes, the Client sends this new health to the Server and it is updated accordingly.
 
+If you are a veteran JToH Player, you may be familiar with the fact that when you are spectating a Player and they are on a Zipline, they visibly freeze until they dismount. To fix this, the Client sends CFrame information to the Server so it can be seen by all Players. The same also applies when a Player sits in a seat.
