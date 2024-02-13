@@ -1,6 +1,6 @@
 # Morpher
 
-▫️ <b>Type:</b> 🔲 BasePart  
+▫️ <b>Type:</b> 📚 Model
 ▫️ <b>Description:</b> A set of Buttons and Parts that are able to morph a central Part to various states
 
 ## Structure

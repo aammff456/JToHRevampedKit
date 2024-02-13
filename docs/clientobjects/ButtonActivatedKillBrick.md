@@ -6,7 +6,7 @@
 
 ## Structure
 <pre>
-▿ 🔲 ButtonActivatedKillBrick <sup><b>Tag:</b> <i>ClientObject</i></sup>
+▿ 🔲 ButtonActivatedKillBrick <sup><b>Tag:</b> <i>ClientObject, [Button Groups]</i></sup>
     ▫️ ✨ ParticleEmitter
 </pre>
 

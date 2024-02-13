@@ -6,7 +6,7 @@
 
 ## Structure
 <pre>
-▫️ 🔲 ButtonActivatedPart <sup><b>Tag:</b> <i>ClientObject</i></sup>
+▫️ 🔲 ButtonActivatedPart <sup><b>Tag:</b> <i>ClientObject, [Button Groups]</i></sup>
 </pre>
 
 ## Attributes
