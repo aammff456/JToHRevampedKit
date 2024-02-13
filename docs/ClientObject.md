@@ -11,7 +11,7 @@ Client Objects are objects in a Tower that can only be seen on the Client. They 
 
 All Client Objects are required to have a ClientObjectType attribute. This attribute is part of what makes the custom scripting framework possible. The type does not need to be anything in specific, but should represent what kind of Client Object something is.
 
-The added benefit is that this frees up a Client Object's Name property, so you're free to name Client Objects whatever you want.
+The added benefit is that this frees up a Client Object's Name property, so you're free to name Client Objects whatever you want. However, the descendants of a Client Object may require specific naming (If this ends up being an issue you will get an error describing exactly what went wrong).
 
 ## How Do Client Objects Work?
 
