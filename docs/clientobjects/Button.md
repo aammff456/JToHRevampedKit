@@ -33,13 +33,6 @@ Touching the Button will do nothing and the Pressed attribute will not affect th
 </pre>
 
 <pre>
-<b>HideTimer</b>  
-<hr>
-▫️ <b>Type:</b> boolean  
-▫️ <b>Description:</b> Determines whether the timer should be displayed or not
-</pre>
-
-<pre>
 <b>PlayerInteraction</b>  
 <hr>
 ▫️ <b>Type:</b> boolean  
@@ -47,10 +40,24 @@ Touching the Button will do nothing and the Pressed attribute will not affect th
 </pre>
 
 <pre>
+<b>Pressed</b>  
+<hr>
+▫️ <b>Type:</b> boolean  
+▫️ <b>Description:</b> When toggled, will either cause the Button to press or unpress based on its current state
+</pre>
+
+<pre>
 <b>PushboxInteraction</b>  
 <hr>
 ▫️ <b>Type:</b> boolean  
 ▫️ <b>Description:</b> Determines whether a Pushbox will trigger activation of the Button  
+</pre>
+
+<pre>
+<b>ShowTimer</b>  
+<hr>
+▫️ <b>Type:</b> boolean  
+▫️ <b>Description:</b> Determines whether the timer should be displayed or not
 </pre>
 
 <pre>
@@ -69,6 +76,14 @@ Touching the Button will do nothing and the Pressed attribute will not affect th
 </pre>
 
 <pre>
+<b>TimerStep</b>  
+<hr>
+▫️ <b>Type:</b> number  
+▫️ <b>Constraints:</b> x >= 0  
+▫️ <b>Description:</b> Determines how often the timer updates. Lower values tend to yield more accurate timers but use more CPU resources
+</pre>
+
+<pre>
 <b>TimerText</b>  
 <hr>
 ▫️ <b>Type:</b> string  
@@ -76,23 +91,8 @@ Touching the Button will do nothing and the Pressed attribute will not affect th
 </pre>
 
 <pre>
-<b>TimeStep</b>  
-<hr>
-▫️ <b>Type:</b> number  
-▫️ <b>Constraints:</b> x >= 0  
-▫️ <b>Description:</b> Determines how often the timer updates. Lower values tend to yield more accurate timers
-</pre>
-
-<pre>
 <b>TurretInteraction</b>  
 <hr>
 ▫️ <b>Type:</b> boolean  
 ▫️ <b>Description:</b> Determines whether a Turret projectile will trigger activation of the Button  
-</pre>
-
-<pre>
-<b>UseAnimation</b>  
-<hr>
-▫️ <b>Type:</b> boolean  
-▫️ <b>Description:</b> If enabled, the Button will use an animation for its visual and can be unanchored or welded to other Parts. However, the colored Part of the Button will only ever move down 0.75 studs. If disabled, the Button will be forcefully anchored, but the distance the colored Part of the Button moves down depends on the depth of its base Part (ex: If the base is 5 studs high then the colored part will move down 4.75 studs when the Button is activated)
 </pre>
