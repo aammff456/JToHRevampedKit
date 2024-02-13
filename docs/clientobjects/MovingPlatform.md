@@ -30,3 +30,11 @@
 ▫️ <b>Constraints:</b> x > 0  
 ▫️ <b>Description:</b> Determines how long it takes for the Platform to head toward the next location
 </pre>
+
+<pre>
+<b>LinearResponsiveness</b>  
+<hr>
+▫️ <b>Type:</b> number  
+▫️ <b>Constraints:</b> x >= 5, x <= 200
+▫️ <b>Description:</b> Determines how quickly the Platform moves to its next location
+</pre>
