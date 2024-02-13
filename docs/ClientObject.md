@@ -16,7 +16,7 @@ The added benefit is that this frees up a Client Object's Name property, so you'
 ## How Do Client Objects Work?
 
 ### Server-side
-The Server gets a list of all objects tagged "ClientObject", which is a very fast operation thanks to CollectionService. It finds the Tower each Client Object is associated with by checking the Parent property until it finds a Folder with the tag "TowerFolder". While doing this, however, it can also detect if it is an Embedded Client Object (specifically when it is underneath another Client Object), and will mark it as such.
+The Server gets a list of all objects tagged "ClientObject", which is a very fast operation thanks to CollectionService. It finds the Tower each Client Object is associated with by checking the Parent property until it finds a Folder with the tag "TowerFolder". While doing this, however, it can also detect if it is an Embedded Client Object (when it is underneath another Client Object).
 
 If the Client Object is not Embedded, the Server will take note of what its Parent is and move the Client Object into a Tower-designated Folder in ReplicatedStorage, where the Client can see it.
 
