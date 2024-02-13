@@ -12,6 +12,11 @@
     ▫️ ⚙️ ActivateSound
 </pre>
 
+## Toggle Effects
+<pre>
+
+</pre>
+
 ## Attributes
 <pre>
 <b>BalloonInteraction</b>  
