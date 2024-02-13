@@ -12,9 +12,9 @@
     ▫️ ⚙️ ActivateSound
 </pre>
 
-## Toggle Effects
+## When Disabled
 <pre>
-
+Cannot be touched, and the Pressed attribute will not affect the Button when toggled
 </pre>
 
 ## Attributes
