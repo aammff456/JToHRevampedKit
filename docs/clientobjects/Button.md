@@ -14,7 +14,7 @@
 
 ## When Disabled
 <pre>
-Cannot be touched, and the Pressed attribute will not affect the Button when toggled
+Touching the Button will do nothing and the Pressed attribute will not affect the Button when toggled
 </pre>
 
 ## Attributes
