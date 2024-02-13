@@ -43,6 +43,6 @@ This is fixed by implementing collision groups, which prevent other Players from
 
 ### Health and Character CFrame Replication
 
-If the health of a Player is changed on the Client, the Server will not perceive this change unless the Player dies. To fix this, when the Player's health changes, the Client sends this new health to the Server and it is updated accordingly.
+If the health of a Player is changed on the Client, the Server will not perceive this change unless the Player dies. To fix this, when the Player's health changes, the Client sends this new health to the Server and it is updated accordingly. By ensureing the health is changed on the Client and merely updated on the Server, it removes the infamous "KillBrick Lag".
 
 If you are a veteran JToH Player, you may be familiar with the fact that when you are spectating a Player and they are on a Zipline, they visibly freeze until they dismount. To fix this, the Client sends CFrame information to the Server so it can be seen by all Players. The same also applies when a Player sits in a seat.
