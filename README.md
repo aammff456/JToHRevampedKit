@@ -1,6 +1,6 @@
 # Welcome to the JToHKitRewritten!
 
-The JToHKitRewritten is a completely overhauled version of the JToH Kit. It takes advantage of optimizations to make things run much much faster while also allowing for more creative freedom.
+The JToHKitRewritten is a completely overhauled version of the JToH Kit. It takes advantage of optimizations to make things run much faster while also allowing for more creative freedom.
 
 * Works out of the box
 
@@ -16,7 +16,7 @@ The JToHKitRewritten is a completely overhauled version of the JToH Kit. It take
 
 * Custom scripting is encouraged
 
-    * Create your own custom Tower functionality or Client Objects using the built-in modding framework
+    * Create your own custom Client Objects using the built-in modding framework
 
 In this repository you will find detailed documentation on virtually everything contained in the Kit. Head to the docs folder to see more.  
 <pre>
