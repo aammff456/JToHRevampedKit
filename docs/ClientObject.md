@@ -28,3 +28,19 @@ When the Client receives this messsage, it will clone all of the Client Objects 
 After all Client Objects have been loaded, the Client loads GUI and other things necessary for the Tower and tells the Server that it has finished loading. 
 
 The Server will then teleport the Player into the Tower and wait for the Player to touch the Winpad, at which point all Client Objects will be unloaded.
+
+## Physics Nuance
+
+When dealing with Client-specific things, oftentimes the Server will replicate things we don't want replicated, or won't replicate things we do want replicated.
+
+### Cross-Client Collision
+
+Client Objects themselves will never replicate to the Server. However, Roblox utilizes a dynamic Physics system that can offload some of the calculations to a given Client. This means that oftentimes, nearby Physics will end up replicating to the Server.
+
+This is a problem because two Clients playing the same Tower can sometimes interfere with the other's Client Objects (for instance another Player could push your Pushbox without even being able to see it).
+
+This is fixed by implementing collision groups, which prevent other Players from interacting with your own Client Objects.
+
+### Health and Character CFrame Replication
+
+
