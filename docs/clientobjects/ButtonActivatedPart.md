@@ -23,10 +23,3 @@
 ▫️ <b>Type:</b> boolean  
 ▫️ <b>Description:</b> Determines if a ButtonActivatedPart should be enabled when disabled, and visa versa
 </pre>
-
-<pre>
-<b>SmoothTransition</b>  
-<hr>
-▫️ <b>Type:</b> boolean  
-▫️ <b>Description:</b> Determines if a ButtonActivatedPart should smoothly transition between states
-</pre>
