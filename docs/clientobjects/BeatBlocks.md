@@ -14,7 +14,7 @@
 
 ## When Disabled
 <pre>
-The BeatBlocks will stop toggling and will freeze in the next stable state
+The BeatBlocks will freeze in the next stable state and will stop toggling
 </pre>
 
 ## Attributes
