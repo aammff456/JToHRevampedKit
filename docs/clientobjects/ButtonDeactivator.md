@@ -9,12 +9,6 @@
 </pre>
 
 ## Attributes
-<pre>
-<b>Enabled</b>  
-<hr>
-▫️ <b>Type:</b> boolean  
-▫️ <b>Description:</b> If disabled, the ButtonDeactivator will not affect any Buttons
-</pre>
 
 <pre>
 <b>InvisibleOnLoad</b>  
