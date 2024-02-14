@@ -1,7 +1,6 @@
 # BeatBlocks
 
-▫️ <b>Type:</b> 📁 Folder  
-▫️ <b>Description:</b> A collection of platforms that toggle on and off in series
+A collection of platforms that toggle on and off in series
 
 ## Structure
 <pre>

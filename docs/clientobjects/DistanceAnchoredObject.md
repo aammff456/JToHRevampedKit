@@ -1,7 +1,6 @@
 # DistanceAnchoredObject
 
-▫️ <b>Type:</b> 📁 Folder  
-▫️ <b>Description:</b> A Part or Model that unanchors when the Player gets close enough
+A Part or Model that unanchors when the Player gets close enough
 
 ## Structure
 <pre>

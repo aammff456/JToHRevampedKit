@@ -1,7 +1,6 @@
 # ButtonActivatedPart
 
-▫️ <b>Type:</b> 🔲 BasePart  
-▫️ <b>Description:</b> A Part that is toggled on and off by a Button. When enabled, it is opaque and can be collided with. When disabled, it is transparent or invisible and cannot be collided with  
+A Part that is toggled on and off by a Button. When enabled, it is opaque and can be collided with. When disabled, it is transparent or invisible and cannot be collided with  
 ▫️ <b>Use of Tags:</b> Can describe a group for a Button to target
 
 ## Structure

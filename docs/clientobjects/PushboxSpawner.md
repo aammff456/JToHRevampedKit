@@ -1,7 +1,6 @@
 # PushboxSpawner
 
-▫️ <b>Type:</b> 📁 Folder  
-▫️ <b>Description:</b> A grouping of a Button and a Pushbox, where the Button can spawn/respawn that Pushbox
+A grouping of a Button and a Pushbox, where the Button can spawn/respawn that Pushbox
 
 ## Structure
 <pre>

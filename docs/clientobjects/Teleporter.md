@@ -1,7 +1,6 @@
 # Teleporter
 
-▫️ <b>Type:</b> 📁 Folder  
-▫️ <b>Description:</b> A grouping of a teleport Part to a destination Part
+A grouping of a teleport Part to a destination Part
 
 ## Structure
 <pre>
@@ -35,7 +34,7 @@ Will not teleport anything that touches it
 <b>PlayerInteraction</b>  
 <hr>
 ▫️ <b>Type:</b> boolean  
-▫️ <b>Description:</b> Determines whether a Player will trigger activation of the Button  
+▫️ <b>Description:</b> Determines whether a Player will trigger activation of the Teleporter  
 </pre>
 
 <pre>
@@ -49,7 +48,7 @@ Will not teleport anything that touches it
 <b>PushboxInteraction</b>  
 <hr>
 ▫️ <b>Type:</b> boolean  
-▫️ <b>Description:</b> Determines whether a Pushbox will trigger activation of the Button  
+▫️ <b>Description:</b> Determines whether a Pushbox will trigger activation of the Teleporter  
 </pre>
 
 <pre>

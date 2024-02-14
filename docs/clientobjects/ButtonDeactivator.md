@@ -75,5 +75,5 @@ Touching the ButtonDeactivator will do nothing
 <b>TurretInteraction</b>  
 <hr>
 ▫️ <b>Type:</b> boolean  
-▫️ <b>Description:</b> Determines whether a Turret projectile will trigger activation of the Button  
+▫️ <b>Description:</b> Determines whether a Turret projectile will trigger activation of the ButtonDeactivator  
 </pre>

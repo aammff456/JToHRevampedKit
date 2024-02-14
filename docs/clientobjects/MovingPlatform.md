@@ -1,11 +1,13 @@
 # MovingPlatform
 
-▫️ <b>Type:</b> 📁 Folder  
-▫️ <b>Description:</b> A set of Parts where a Platform moves between
+A set of Parts where a Platform moves between
 
 ## Structure
 <pre>
 ▿ 📁 MovingPlatform <sup><b>Tag:</b> <i>ClientObject</i></sup>
+    ▫️ 🔲 2 
+    ▫️ 🔲 ... 
+    ▫️ 🔲 Platform 
 </pre>
 
 ## When Disabled

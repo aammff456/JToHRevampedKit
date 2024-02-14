@@ -1,8 +1,6 @@
 # Button
 
-▫️ <b>Type:</b> 📚 Model  
-▫️ <b>Description:</b> When activated, will toggle ButtonActivatedParts (or ButtonActivatedKillBricks) that are linked to it  
-▫️ <b>Use of Tags:</b> Can describe a group for a ButtonDeactivator to target
+When activated, will toggle ButtonActivatedParts (or ButtonActivatedKillBricks) that are linked to it  
 
 ## Structure
 <pre>
