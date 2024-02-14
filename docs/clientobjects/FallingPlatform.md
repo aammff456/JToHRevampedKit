@@ -14,7 +14,7 @@ A Platform that can fall when touched, where it can
 
 ## When Disabled
 <pre>
-The Platform will freeze in the next stable state and will stop moving
+Touching the FallingPlatform will do nothing
 </pre>
 
 ## Attributes
@@ -81,7 +81,7 @@ The Platform will freeze in the next stable state and will stop moving
 <hr>
 ▫️ <b>Type:</b> number  
 ▫️ <b>Constraints:</b> x > 0  
-▫️ <b>Description:</b> Determines how fast the Platform returns to its resting position
+▫️ <b>Description:</b> Determines how fast the FallingPlatform returns to its resting position
 </pre>
 
 <pre>
