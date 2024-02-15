@@ -65,10 +65,10 @@ Touching the ButtonDeactivator will do nothing
 </pre>
 
 <pre>
-<b>TargetGroup</b>  
+<b>TargetClientObjectId</b>  
 <hr>
 ▫️ <b>Type:</b> string  
-▫️ <b>Description:</b> If this field is given a value, it will only affect Buttons that have that same value as a tag. If this field is left blank, it will only affect Buttons that match the color of the ButtonDeactivator
+▫️ <b>Description:</b> If this field is given a value, it will only affect Buttons that ClientObjectId. If this field is left blank, it will only affect Buttons that match the color of the ButtonDeactivator
 </pre>
 
 <pre>

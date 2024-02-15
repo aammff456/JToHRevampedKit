@@ -59,10 +59,10 @@ Touching the Button will do nothing and the Pressed attribute will not affect th
 </pre>
 
 <pre>
-<b>TargetGroup</b>  
+<b>TargetClientObjectId</b>  
 <hr>
 ▫️ <b>Type:</b> string  
-▫️ <b>Description:</b> If this field is given a value, it will only affect ButtonActivatedParts that have that same value as a tag. If this field is left blank, it will only affect ButtonActivatedParts that match the color of the Button
+▫️ <b>Description:</b> If this field is given a value, it will only affect ButtonActivatedParts that have that ClientObjectId. If this field is left blank, it will only affect ButtonActivatedParts that match the color of the Button
 </pre>
 
 <pre>
