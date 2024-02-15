@@ -14,6 +14,8 @@ All Client Objects are required to have a ClientObjectType attribute. This attri
 
 The added benefit is that this frees up a Client Object's Name property, so you're free to name Client Objects whatever you want. However, the descendants of a Client Object may require specific naming (If this ends up being an issue you will get an error describing exactly what went wrong).
 
+All Client Objects are also required to have a ClientObjectId attribute. This attribute makes it possible for scripts to have granular control over which Client Objects to target. This can be left as a blank string if an Id is not needed.
+
 ## How Do Client Objects Work?
 
 ### Server-side
