@@ -11,4 +11,4 @@ All of the Default Client Objects come with an 'Enabled' attribute that will tog
 ## Overriding and Changing Functionality
 If you want to modify the functionality of any Default Client Object type, it is recommended to do so in a separate Mod so the modifications are clear. You can simply set the 'Enabled' property of any specific Client Object script to false (or you can delete the script if you're sure you won't need it) and copy and paste the code somewhere else where it can be modified.
 
-If you only want to modify a single Object, you can make a separate Client Object Type and make a script that targets its type specifically.
+If you only want to modify a single Object, you can fill in the Client Object's ClientObjectId attribute with a specific Id and use the Tower.GetClientObjectsById function to get a table that contains only that specific Object.

@@ -93,3 +93,19 @@ Will not teleport anything that touches it
 ▫️ <b>Type:</b> number  
 ▫️ <b>Description:</b> The outgoing velocity is multiplied with this value. A value of 0 will stop anything from moving after teleporting. Values further from 0 will make outgoing Parts/Player move faster.
 </pre>
+
+## TeleportPart Attributes
+<pre>
+<b>InvisibleOnLoad</b>  
+<hr>
+▫️ <b>Type:</b> boolean  
+▫️ <b>Description:</b> Determines whether or not the TeleportPart should be invisible when the Tower loads
+</pre>
+
+## DestinationPart Attributes
+<pre>
+<b>InvisibleOnLoad</b>  
+<hr>
+▫️ <b>Type:</b> boolean  
+▫️ <b>Description:</b> Determines whether or not the DestinationPart should be invisible when the Tower loads
+</pre>
