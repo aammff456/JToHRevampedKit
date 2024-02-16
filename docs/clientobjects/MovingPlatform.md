@@ -39,7 +39,7 @@ The Platform will freeze in the next stable state and will stop moving
 </pre>
 
 <pre>
-<b>LinearResponsiveness</b>  
+<b>Responsiveness</b>  
 <hr>
 ▫️ <b>Type:</b> number  
 ▫️ <b>Constraints:</b> x >= 5, x <= 200
