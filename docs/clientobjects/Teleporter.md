@@ -66,6 +66,13 @@ Will not teleport anything that touches it
 </pre>
 
 <pre>
+<b>RetainVelocity</b>  
+<hr>
+▫️ <b>Type:</b> boolean  
+▫️ <b>Description:</b> Determines whether Parts/Player retain the same velocity relative to the World after teleporting
+</pre>
+
+<pre>
 <b>TransitionEasingDirection</b>  
 <hr>
 ▫️ <b>Type:</b> Enum.EasingDirection  
