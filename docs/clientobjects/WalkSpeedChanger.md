@@ -4,7 +4,7 @@ A Part that changes the WalkSpeed of a Player
 
 ## Structure
 <pre>
-▫️ 🔲 WalkSpeedChanger <sup><b>Tag:</b> <i>ClientObject</i></sup>
+▫️ 🔲 WalkSpeedChanger
 </pre>
 
 ## When Disabled

@@ -4,7 +4,7 @@ A Part that can be clicked to toggle its state
 
 ## Structure
 <pre>
-▿ 🔲 ClickPart <sup><b>Tag:</b> <i>ClientObject</i></sup>
+▿ 🔲 ClickPart
     ▫️ ⭕️ SelectionBox
 </pre>
 

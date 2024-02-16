@@ -4,11 +4,11 @@ A grouping of a Button and a Pushbox, where the Button can spawn/respawn that Pu
 
 ## Structure
 <pre>
-▿ 📁 PushboxSpawner <sup><b>Tag:</b> <i>ClientObject</i></sup>
+▿ 📁 PushboxSpawner
     ▿ 📚 Button
         ▫️ 🔲 Base
         ▫️ 🔲 PressPart
-    ▫️ 🔲 Pushbox <sup><b>Tag:</b> <i>ClientObject</i></sup>
+    ▫️ 🔲 Pushbox
 </pre>
 
 ## When Disabled

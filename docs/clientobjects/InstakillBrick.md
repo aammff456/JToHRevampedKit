@@ -4,7 +4,7 @@ A Part that will attempt to instantly kill the Player
 
 ## Structure
 <pre>
-▿ 🔲 InstakillBrick <sup><b>Tag:</b> <i>ClientObject</i></sup>
+▿ 🔲 InstakillBrick
     ▫️ ✨ ParticleEmitter
 </pre>
 

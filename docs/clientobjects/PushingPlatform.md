@@ -4,7 +4,7 @@ A Platform that can be pushed and will return to its starting position after
 
 ## Structure
 <pre>
-▿ 📚 PushingPlatform <sup><b>Tag:</b> <i>ClientObject</i></sup>
+▿ 📚 PushingPlatform
     ▫️ ➡️ PrimaticConstraint
     ▫️ ➡️ VectorForce
     ▿ 🔲 Base 

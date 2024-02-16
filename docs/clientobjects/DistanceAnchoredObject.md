@@ -4,11 +4,11 @@ A Part or Model that unanchors when the Player gets close enough
 
 ## Structure
 <pre>
-▫️ 🔲 DistanceAnchoredPart <sup><b>Tag:</b> <i>ClientObject</i></sup>
+▫️ 🔲 DistanceAnchoredPart
 </pre>
 <i>or</i>
 <pre>
-▿ 📚 DistanceAnchoredModel <sup><b>Tag:</b> <i>ClientObject</i></sup>
+▿ 📚 DistanceAnchoredModel
     ▫️ 🔲 Part
     ▫️ 🔲 ...
 </pre>

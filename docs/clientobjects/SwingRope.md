@@ -4,7 +4,7 @@ A rope that can be swung on by the Player
 
 ## Structure
 <pre>
-▿ 🔲 SwingRope <sup><b>Tag:</b> <i>ClientObject</i></sup>
+▿ 🔲 SwingRope
     ▫️ 🔹Attachment0
     ▫️ 🔹Attachment1
     ▫️ ➡️ RopeConstraint

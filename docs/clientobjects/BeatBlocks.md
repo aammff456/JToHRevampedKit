@@ -4,7 +4,7 @@ A collection of platforms that toggle on and off in series
 
 ## Structure
 <pre>
-▿ 📁 BeatBlocks <sup><b>Tags:</b> <i>ClientObject, [ButtonDeactivator Groups]</i></sup>  
+▿ 📁 BeatBlocks
     ▫️ 🔲 1
     ▫️ 🔲 2
     ▫️ 🔲 3

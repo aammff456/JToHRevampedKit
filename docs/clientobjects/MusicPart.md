@@ -4,7 +4,7 @@ A Part that will play music when interacted with
 
 ## Structure
 <pre>
-▿ 🔲 MusicPart <sup><b>Tag:</b> <i>ClientObject</i></sup>
+▿ 🔲 MusicPart
     ▫️ ⚙️ Music
 </pre>
 

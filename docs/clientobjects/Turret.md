@@ -4,7 +4,7 @@ A part that periodically fires projectiles that can deal damage
 
 ## Structure
 <pre>
-▿ 📚 Turret <sup><b>Tag:</b> <i>ClientObject</i></sup>
+▿ 📚 Turret
     ▫️ 🔲 Base
     ▫️ 🔲 TurretProjectile
     ▫️ ⚙️ FireSound

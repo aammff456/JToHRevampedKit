@@ -4,7 +4,7 @@ A Part that modified a touching TurretProjectile in some way
 
 ## Structure
 <pre>
-▫️ 🔲 TurretProjectileModifier <sup><b>Tag:</b> <i>ClientObject</i></sup>
+▫️ 🔲 TurretProjectileModifier
 </pre>
 
 ## When Disabled

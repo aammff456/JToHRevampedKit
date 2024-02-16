@@ -4,7 +4,7 @@ A Platform that hangs from a rope
 
 ## Structure
 <pre>
-▿ 📚 RopePlatform <sup><b>Tag:</b> <i>ClientObject</i></sup>
+▿ 📚 RopePlatform
     ▫️ ➡️ RopeConstraint
     ▿ 🔲 Base 
         ▫️ 🔹Attachment0

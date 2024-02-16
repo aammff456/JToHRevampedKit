@@ -4,7 +4,7 @@ A platform that can rotate on a hinge when force is acted upon it
 
 ## Structure
 <pre>
-▿ 📚 TiltingPlatform <sup><b>Tag:</b> <i>ClientObject</i></sup>
+▿ 📚 TiltingPlatform
     ▫️ ➡️ CylindricalConstraint
     ▿ 🔲 Base 
         ▫️ 🔹Attachment0

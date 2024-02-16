@@ -4,7 +4,7 @@ A Part that will modify a MusicPart and/or its Music when touched
 
 ## Structure
 <pre>
-▫️ 🔲 MusicPartModifier <sup><b>Tag:</b> <i>ClientObject</i></sup>
+▫️ 🔲 MusicPartModifier
 </pre>
 
 ## When Disabled

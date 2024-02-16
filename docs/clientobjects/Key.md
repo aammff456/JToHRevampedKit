@@ -4,7 +4,7 @@ An object the unlocks specific KeyDoors
 
 ## Structure
 <pre>
-▿ 📚 Key <sup><b>Tag:</b> <i>ClientObject</i></sup>
+▿ 📚 Key
     ▿ 🔲 KeyUnion 
         ▫️ ⏺ Weld Constraint
     ▫️ 🔲 Base 

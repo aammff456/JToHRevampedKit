@@ -4,7 +4,7 @@ An object the unlocks specific KeyDoors
 
 ## Structure
 <pre>
-▿ 📚 KeyDoor <sup><b>Tag:</b> <i>ClientObject</i></sup>
+▿ 📚 KeyDoor
     ▫️ 🔲 DoorPart  
     ▿ 🔲 Hitbox 
         ▫️ ⭕️ SelectionBox

@@ -4,7 +4,7 @@ A Part that will attempt to damage the Player
 
 ## Structure
 <pre>
-▿ 🔲 KillBrick <sup><b>Tag:</b> <i>ClientObject</i></sup>
+▿ 🔲 KillBrick
     ▫️ ✨ ParticleEmitter
 </pre>
 

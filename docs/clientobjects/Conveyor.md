@@ -4,7 +4,7 @@ A Part that moves Parts on top of it
 
 ## Structure
 <pre>
-▫️ 🔲 Conveyor <sup><b>Tag:</b> <i>ClientObject</i></sup>
+▫️ 🔲 Conveyor
 </pre>
 
 ## When Disabled

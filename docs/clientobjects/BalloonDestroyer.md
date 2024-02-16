@@ -4,7 +4,7 @@ A Part that can pop Balloons that touch it
 
 ## Structure
 <pre>
-▫️ 🔲 BalloonDestroyer <sup><b>Tag:</b> <i>ClientObject</i></sup>
+▫️ 🔲 BalloonDestroyer
 </pre>
 
 ## When Disabled

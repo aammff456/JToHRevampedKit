@@ -4,7 +4,7 @@ A Platform that will shove forward and then return to its starting position repe
 
 ## Structure
 <pre>
-▿ 📚 ShovingPlatform <sup><b>Tag:</b> <i>ClientObject</i></sup>
+▿ 📚 ShovingPlatform
     ▫️ ➡️ PrismaticConstraint
     ▿ 🔲 Base 
         ▫️ 🔹Attachment0

@@ -4,7 +4,7 @@ A Part that will return the effects of the game back to normal
 
 ## Structure
 <pre>
-▿ 🔲 SpecialEffectsRemover <sup><b>Tag:</b> <i>ClientObject</i></sup>
+▿ 🔲 SpecialEffectsRemover
     ▫️ 🟪 TweenConfiguration
 </pre>
 

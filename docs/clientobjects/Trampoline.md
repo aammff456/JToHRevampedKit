@@ -4,7 +4,7 @@ A Part that bounces Objects that touch it
 
 ## Structure
 <pre>
-▿ 🔲 Trampoline <sup><b>Tag:</b> <i>ClientObject</i></sup>
+▿ 🔲 Trampoline
     ▫️ ⚙️ BounceSound
 </pre>
 

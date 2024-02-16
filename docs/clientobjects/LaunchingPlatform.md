@@ -4,7 +4,7 @@ A Platform that falls and then returns back up very quickly, launching things
 
 ## Structure
 <pre>
-▿ 📚 LaunchingPlatform <sup><b>Tag:</b> <i>ClientObject</i></sup>
+▿ 📚 LaunchingPlatform
     ▫️ ➡️ PrimaticConstraint
     ▿ 🔲 Base 
         ▫️ 🔹Attachment0

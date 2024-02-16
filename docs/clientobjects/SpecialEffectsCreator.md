@@ -4,7 +4,7 @@ A Part that will alter the effects of the game
 
 ## Structure
 <pre>
-▿ 🔲 SpecialEffectsCreator <sup><b>Tag:</b> <i>ClientObject</i></sup>
+▿ 🔲 SpecialEffectsCreator
     ▫️ 🟪 EffectsConfiguration
 </pre>
 

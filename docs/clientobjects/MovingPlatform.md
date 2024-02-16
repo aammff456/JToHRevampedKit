@@ -4,7 +4,7 @@ A set of Parts where a Platform moves between
 
 ## Structure
 <pre>
-▿ 📁 MovingPlatform <sup><b>Tag:</b> <i>ClientObject</i></sup>
+▿ 📁 MovingPlatform
     ▫️ 🔲 2 
     ▫️ 🔲 ... 
     ▫️ 🔲 Platform 

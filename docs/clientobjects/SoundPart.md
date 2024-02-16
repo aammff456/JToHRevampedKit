@@ -4,7 +4,7 @@ A Part that will play a sound when interacted with
 
 ## Structure
 <pre>
-▿ 🔲 SoundPart <sup><b>Tag:</b> <i>ClientObject</i></sup>
+▿ 🔲 SoundPart
     ▫️ ⚙️ Sound
 </pre>
 

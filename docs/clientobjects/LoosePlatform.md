@@ -4,7 +4,7 @@ A platform that can wobble
 
 ## Structure
 <pre>
-▿ 📚 LoosePlatform <sup><b>Tag:</b> <i>ClientObject</i></sup>
+▿ 📚 LoosePlatform
     ▫️ ➡️ BallSocketConstraint
     ▿ 🔲 Base 
         ▫️ 🔹Attachment0

@@ -4,7 +4,7 @@ A Part that automatically dismounts a Player from an attached SwingRope
 
 ## Structure
 <pre>
-▫️ 🔲 SwingRopeDismounter <sup><b>Tag:</b> <i>ClientObject</i></sup>
+▫️ 🔲 SwingRopeDismounter
 </pre>
 
 ## When Disabled

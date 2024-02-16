@@ -4,7 +4,7 @@ A Part that can pop Balloons that touch it
 
 ## Structure
 <pre>
-▿ 🔲 BalloonDispenser <sup><b>Tag:</b> <i>ClientObject</i></sup>
+▿ 🔲 BalloonDispenser
     ▫️ ⚙️ InflateSound
     ▫️ ⚙️ PopSound
 </pre>

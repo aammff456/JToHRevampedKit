@@ -4,7 +4,7 @@ A Part that changes the JumpPower of a Player
 
 ## Structure
 <pre>
-▫️ 🔲 JumpPowerChanger <sup><b>Tag:</b> <i>ClientObject</i></sup>
+▫️ 🔲 JumpPowerChanger
 </pre>
 
 ## When Disabled

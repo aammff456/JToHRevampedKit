@@ -4,7 +4,7 @@ A Platform that hangs from multiple ropes
 
 ## Structure
 <pre>
-▿ 📚 SwingingPlatform <sup><b>Tag:</b> <i>ClientObject</i></sup>
+▿ 📚 SwingingPlatform
     ▫️ ➡️ RopeConstraint1
     ▫️ ➡️ RopeConstraint2
     ▫️ ➡️ RopeConstraint3

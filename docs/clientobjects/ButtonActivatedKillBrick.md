@@ -5,7 +5,7 @@ A KillBrick that is toggled on and off by a Button. When enabled, it is opaque, 
 
 ## Structure
 <pre>
-▿ 🔲 ButtonActivatedKillBrick <sup><b>Tag:</b> <i>ClientObject</i></sup>
+▿ 🔲 ButtonActivatedKillBrick
     ▫️ ✨ ParticleEmitter
 </pre>
 

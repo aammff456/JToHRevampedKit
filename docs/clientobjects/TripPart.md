@@ -4,7 +4,7 @@ A Part that can trip a Player
 
 ## Structure
 <pre>
-▫️ 🔲 TripPart <sup><b>Tag:</b> <i>ClientObject</i></sup>
+▫️ 🔲 TripPart
 </pre>
 
 ## When Disabled

@@ -5,7 +5,7 @@
 
 ## Structure
 <pre>
-▫️ 🔲 ButtonDeactivator <sup><b>Tag:</b> <i>ClientObject</i></sup>
+▫️ 🔲 ButtonDeactivator
 </pre>
 
 ## When Disabled

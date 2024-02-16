@@ -4,7 +4,7 @@ A Platform that can fall when touched, where it can
 
 ## Structure
 <pre>
-▿ 📚 FallingPlatform <sup><b>Tag:</b> <i>ClientObject</i></sup>
+▿ 📚 FallingPlatform
     ▫️ ➡️ PrimaticConstraint
     ▿ 🔲 Base 
         ▫️ 🔹Attachment0

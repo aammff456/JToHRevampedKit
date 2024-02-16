@@ -4,7 +4,7 @@ A Part that applies a consistent linear force to Parts inside of it
 
 ## Structure
 <pre>
-▫️ 🔲 Elevator <sup><b>Tag:</b> <i>ClientObject</i></sup>
+▫️ 🔲 Elevator
 </pre>
 
 ## When Disabled

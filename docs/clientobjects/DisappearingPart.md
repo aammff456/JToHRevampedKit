@@ -4,7 +4,7 @@ A Part that disappears when touched
 
 ## Structure
 <pre>
-▿ 🔲 DisappearingPart <sup><b>Tag:</b> <i>ClientObject</i></sup>
+▿ 🔲 DisappearingPart
     ▫️ ⭕️ SelectionBox
 </pre>
 

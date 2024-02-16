@@ -4,7 +4,7 @@ A Part that modified a touching Pushbox in some way
 
 ## Structure
 <pre>
-▫️ 🔲 PushboxModifier <sup><b>Tag:</b> <i>ClientObject</i></sup>
+▫️ 🔲 PushboxModifier
 </pre>
 
 ## When Disabled

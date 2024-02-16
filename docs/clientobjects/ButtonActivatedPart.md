@@ -5,7 +5,7 @@ A Part that is toggled on and off by a Button. When enabled, it is opaque and ca
 
 ## Structure
 <pre>
-▫️ 🔲 ButtonActivatedPart <sup><b>Tag:</b> <i>ClientObject</i></sup>
+▫️ 🔲 ButtonActivatedPart
 </pre>
 
 ## Attributes

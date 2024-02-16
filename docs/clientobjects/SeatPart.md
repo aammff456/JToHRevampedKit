@@ -4,7 +4,7 @@ A Part that can seat a Player
 
 ## Structure
 <pre>
-▫️ 🔲 SeatPart <sup><b>Tag:</b> <i>ClientObject</i></sup>
+▫️ 🔲 SeatPart
 </pre>
 
 ## When Disabled

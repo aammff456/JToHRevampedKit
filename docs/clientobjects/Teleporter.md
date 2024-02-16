@@ -4,7 +4,7 @@ A grouping of a teleport Part to a destination Part
 
 ## Structure
 <pre>
-▿ 📁 Teleporter <sup><b>Tag:</b> <i>ClientObject</i></sup>
+▿ 📁 Teleporter
     ▫️ 🔲 DestinationPart
     ▫️ 🔲 TeleportPart
 </pre>

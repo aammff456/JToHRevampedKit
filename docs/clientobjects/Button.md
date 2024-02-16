@@ -4,7 +4,7 @@ When activated, will toggle ButtonActivatedParts (or ButtonActivatedKillBricks) 
 
 ## Structure
 <pre>
-▿ 📚 Button <sup><b>Tags:</b> <i>ClientObject</i></sup>  
+▿ 📚 Button
     ▫️ 🔲 Base  
     ▫️ 🔲 PressPart
     ▫️ ⚙️ ActivateSound

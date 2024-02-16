@@ -4,7 +4,7 @@ A platform that spins
 
 ## Structure
 <pre>
-▿ 📚 SpinningPlatform <sup><b>Tag:</b> <i>ClientObject</i></sup>
+▿ 📚 SpinningPlatform
     ▫️ ➡️ CylindricalConstraint
     ▿ 🔲 Base 
         ▫️ 🔹Attachment0

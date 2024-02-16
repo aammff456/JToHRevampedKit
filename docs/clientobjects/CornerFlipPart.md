@@ -4,7 +4,7 @@ A Part that moves Parts on top of it
 
 ## Structure
 <pre>
-▫️ 🔲 CornerFlipPart <sup><b>Tag:</b> <i>ClientObject</i></sup>
+▫️ 🔲 CornerFlipPart
 </pre>
 
 ## When Disabled

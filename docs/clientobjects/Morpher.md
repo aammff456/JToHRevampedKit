@@ -4,7 +4,7 @@ A set of Buttons and Parts that are able to morph a central Part to various stat
 
 ## Structure
 <pre>
-▿ 📚 Morpher <sup><b>Tag:</b> <i>ClientObject</i></sup>
+▿ 📚 Morpher
     ▿ 📚 MorpherButton
         ▫️ 🔲 Base
         ▫️ 🔲 MorphDestination
