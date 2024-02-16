@@ -16,7 +16,6 @@ Will not teleport anything that touches it
 </pre>
 
 ## Attributes
-
 <pre>
 <b>FireCooldown</b>  
 <hr>
