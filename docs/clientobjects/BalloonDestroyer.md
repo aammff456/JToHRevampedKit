@@ -17,14 +17,7 @@ Will not be able to pop Balloons
 <b>ColorStrict</b>  
 <hr>
 ▫️ <b>Type:</b> boolean  
-▫️ <b>Description:</b> When enabled, Parts can only trigger activation of the Button when they match the color of the Button. However, Parts that belong to the player are exempt from this rule 
-</pre>
-
-<pre>
-<b>PositionsInvisibleOnLoad</b>  
-<hr>
-▫️ <b>Type:</b> boolean  
-▫️ <b>Description:</b> Determines whether or not the Platform positions are invisible when the Tower loads
+▫️ <b>Description:</b> When enabled, BalloonParts can only trigger activation of the BalloonDestroyer when they match the color of the BalloonDestroyer.
 </pre>
 
 <pre>
@@ -32,7 +25,7 @@ Will not be able to pop Balloons
 <hr>
 ▫️ <b>Type:</b> number  
 ▫️ <b>Constraints:</b> x >= 0  
-▫️ <b>Description:</b> How long the Teleporter will remain inactive after being activated
+▫️ <b>Description:</b> How long the BalloonDestroyer will remain inactive after being activated
 </pre>
 
 <pre>
