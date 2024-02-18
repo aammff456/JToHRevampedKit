@@ -4,7 +4,7 @@ A grouping of a Button and a Pushbox, where the Button can spawn/respawn that Pu
 
 ## Structure
 <pre>
-▿ 📁 PushboxSpawner
+▿ 📚 PushboxSpawner
     ▿ 📚 Button
         ▫️ 🔲 Base
         ▫️ 🔲 PressPart
