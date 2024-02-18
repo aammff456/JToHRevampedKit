@@ -4,7 +4,7 @@ A set of Parts where a Platform moves between
 
 ## Structure
 <pre>
-▿ 📁 MovingPlatform
+▿ 📚 MovingPlatform
     ▫️ 🔲 2 
     ▫️ 🔲 ... 
     ▫️ 🔲 Platform 
