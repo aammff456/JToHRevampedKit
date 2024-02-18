@@ -4,7 +4,7 @@ A collection of platforms that toggle on and off in series
 
 ## Structure
 <pre>
-▿ 📁 BeatBlocks
+▿ 📚 BeatBlocks
     ▫️ 🔲 1
     ▫️ 🔲 2
     ▫️ 🔲 3
