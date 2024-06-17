@@ -1,6 +1,6 @@
 # KeyDoor
 
-An object the unlocks specific KeyDoors
+An object that is unlocked by a Key
 
 ## Structure
 <pre>
