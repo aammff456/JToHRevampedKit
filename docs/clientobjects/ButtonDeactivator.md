@@ -1,7 +1,6 @@
 # ButtonDeactivator
 
-▫️ <b>Type:</b> 🔲 BasePart  
-▫️ <b>Description:</b> When touched, will attempt to unpress Buttons that are linked to it
+When touched, will attempt to unpress Buttons that are linked to it
 
 ## Structure
 <pre>
