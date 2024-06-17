@@ -1,6 +1,6 @@
 # BalloonDispenser
 
-A Part that can pop Balloons that touch it
+A Part that can dispense and attach a balloon when touched
 
 ## Structure
 <pre>
