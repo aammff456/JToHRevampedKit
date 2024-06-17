@@ -1,7 +1,6 @@
 # ButtonActivatedKillBrick
 
-A KillBrick that is toggled on and off by a Button. When enabled, it is opaque, can be collided with, and can deal damage. When disabled, it is transparent or invisible, cannot be collided with, and might not deal damage
-
+A KillBrick that is toggled on and off by a Button. When enabled, it is opaque, can be collided with, and can deal damage. When disabled, it is transparent or invisible, cannot be collided with, and might not deal damage    
 ▫️ <b>Use of Tags:</b> Can describe a group for a Button to target
 
 ## Structure
