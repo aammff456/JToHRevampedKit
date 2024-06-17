@@ -1,6 +1,6 @@
 # CornerFlipPart
 
-A Part that moves Parts on top of it
+A Part that lets players "flip" around through, or teleport through
 
 ## Structure
 <pre>
