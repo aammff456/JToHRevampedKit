@@ -1,6 +1,6 @@
 # FallingPlatform
 
-A Platform that can fall when touched, where it can 
+A Platform that can fall when touched
 
 ## Structure
 <pre>
